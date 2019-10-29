@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572336024 source:e:\materi\semester 7\tugasuts\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
